@@ -2,21 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Coursework project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bag-of-Words based Natural Language Inference](/pdf/BOW_NIL.pdf)
+%<img src="images/dummy_thumbnail.jpg?raw=true"/>%
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Recomendation System: ALS with Pyspark](/pdf/ALS_with_Pyspark.pdf)
+%<img src="images/dummy_thumbnail.jpg?raw=true"/>%
 
 ---
+[COVID-19 Prediction and Tweets Analysis](/pdf/COVID.pdf)
+%<img src="images/dummy_thumbnail.jpg?raw=true"/>%
 
+---
+%
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -26,7 +26,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+%
 
 
 
