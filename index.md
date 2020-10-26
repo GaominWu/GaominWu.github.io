@@ -4,7 +4,7 @@
 
 ### Coursework project
 
-[Bag-of-Words based Natural Language Inference](/pdf/BOW_NIL.pdf)
+[Bag-of-Words based Natural Language Inference](/pdf/BOW_NLI.pdf)
 
 ---
 [Recomendation System: ALS with Pyspark](/pdf/ALS_with_Pyspark.pdf)
